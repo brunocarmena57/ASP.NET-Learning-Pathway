@@ -70,4 +70,5 @@ On the hardware side, a web server is a computer with more processing power and 
 On the software side, a web server is a program that accepts HTTP requests from the clients, such as a web browser, processes the request, and returns a response. The response can be static, i.e. image/text, or dynamic, i.e. calculated total of the shopping cart.
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 By familiarizing myself with the basics of HTTP, I was able to better understand the role it plays in web development, and how it can be used in conjunction with ASP.NET to build powerful web applications. I encourage you to explore the resources included in this directory to learn more about HTTP and how it can be used in your own web development projects.

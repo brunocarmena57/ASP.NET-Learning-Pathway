@@ -14,26 +14,26 @@ It is a protocol (rules) that must be followed to send things over the WWW. It i
 
 A request message has 3 main parts:
 
-Request line: Shows the method, url and http version
+Request line: Shows the method, url and http version.
 
-Headers: Has information to give the server
+Headers: Has information to give the server.
 
-Body: Only if method is POST
+Body: Only if method is POST.
 
 
 ### 3. What are the important HTTP methods (or HTTP verbs) – (GET, POST, PUT, PATCH, HEAD, DELETE)?
 
-GET: Request visualize data
+GET: Request visualize data.
 
-POST: Send data to the server
+POST: Send data to the server.
 
-PUT: To update/replace a record of a database
+PUT: To update/replace a record of a database.
 
-PATCH: Partially update/replace a record of a database
+PATCH: Partially update/replace a record of a database.
 
-HEAD: Same as GET with no Body
+HEAD: Same as GET with no Body.
 
-DELETE: To remove record of a database
+DELETE: To remove record of a database.
 
 
 ### 4. What are the important HTTP status codes?
@@ -41,15 +41,15 @@ DELETE: To remove record of a database
 An HTTP status code is a server response to a browser’s request. It indicates status of completed action as a response to the request.
 HTTP status code classes:
 
-1xx – Informational
+1xx – Informational.
 
-2xx – Success
+2xx – Success.
 
-3xx – Redirection
+3xx – Redirection.
 
-4xx – Client errors
+4xx – Client errors.
 
-5xx – Server errors
+5xx – Server errors.
 
 
 ### 5. What is Content Negotiation in HTTP?

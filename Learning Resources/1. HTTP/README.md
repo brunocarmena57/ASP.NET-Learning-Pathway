@@ -1,7 +1,7 @@
 # HTTP
 Learning about HTTP
 
-In this section, I started learning about HTTP, which stands for Hypertext Transfer Protocol. HTTP is the foundation of the World Wide Web and enables web browsers to communicate with web servers to retrieve and display web pages. I have gone through 7 main lessons and one exercise (A Math App with GET) to ensure my learning.
+In this section, I started learning about HTTP, which stands for Hypertext Transfer Protocol. HTTP is the foundation of the World Wide Web and enables web browsers to communicate with web servers to retrieve and display web pages. I have gone through 7 main lessons and one exercise (A Math App with GET) to ensure my learnig.
 As I began exploring ASP.NET and web development, I quickly realized that understanding HTTP was essential for building effective and efficient web applications. I learned that when I enter a web address or URL into my browser's address bar, the browser sends an HTTP request to the web server hosting the website, asking it to provide the requested resource, such as an HTML file or an image. The web server then responds with an HTTP response, which includes the requested resource, along with any additional information, such as HTTP headers and status codes.
 
 Here, are some main questions about HTTP, that's important to know the answers:

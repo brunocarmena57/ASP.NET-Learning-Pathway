@@ -13,8 +13,11 @@ It is a protocol (rules) that must be followed to send things over the WWW. It i
 ### 2. What is the format of a Request Message?
 
 A request message has 3 main parts:
+
 Request line: Shows the method, url and http version
+
 Headers: Has information to give the server
+
 Body: Only if method is POST
 
 
@@ -37,6 +40,7 @@ DELETE: To remove record of a database
 
 An HTTP status code is a server response to a browser’s request. It indicates status of completed action as a response to the request.
 HTTP status code classes:
+
 1xx – Informational
 
 2xx – Success

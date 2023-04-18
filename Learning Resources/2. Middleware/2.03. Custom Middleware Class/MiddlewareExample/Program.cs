@@ -7,7 +7,7 @@ builder.Services.AddTransient<MyCustomMiddleware>();
 
 var app = builder.Build();
 
-// Middlware 1
+// Middleware 1
 app.Use(async (HttpContext context, RequestDelegate next) =>
 {
     await context.Response.WriteAsync("From Middleware 1");

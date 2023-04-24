@@ -1,5 +1,6 @@
 # MIDDLEWARE
 
+
 In this section, I approached in middleware and learned about its importance in the application pipeline. I started by studying the concept of the middleware chain and how each piece of middleware in the pipeline contributes to the application's overall functionality. Next, I explored how to create custom middleware classes and extensions, which allowed me to add custom functionality to my application's pipeline. I also learned about conventional middleware classes and the use of the UseWhen method to conditionally apply middleware based on specific conditions. Throughout this section, I gained a deeper understanding of middleware and its role in ASP.NET development.
 
 Here are some important questions: 

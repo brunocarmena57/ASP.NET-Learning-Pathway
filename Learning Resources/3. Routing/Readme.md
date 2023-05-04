@@ -22,7 +22,7 @@ In this section, I learned about routing in ASP.NET Core, which allows mapping i
 <strong>WebRoot:</strong> the root directory of the web application, which is used to serve static files.
 
 
-Here are some questions that you could find helpful:
+Finally, here are some questions that you could find helpful:
 
 
 ### 1. What is Routing?

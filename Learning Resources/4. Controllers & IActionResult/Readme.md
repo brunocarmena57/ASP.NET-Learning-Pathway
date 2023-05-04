@@ -121,5 +121,6 @@ HttpContext encapsulates all HTTP-specific information about an individual HTTP 
 The HttpContext object has properties such as Items, Request, Response, Session, User etc.
 
 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In conclusion, the Controllers & IActionResult section was a great learning experience for me. I learned about the different types of results that can be returned by an action method and how to handle them effectively. I also learned about the various ways to return data from a controller and how to redirect users to different parts of the application. Understanding the fundamentals of Controllers & IActionResult is essential for building any robust and scalable application in ASP.NET Core.

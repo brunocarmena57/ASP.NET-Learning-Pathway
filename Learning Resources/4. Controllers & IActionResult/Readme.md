@@ -12,7 +12,7 @@ Some important questions:
 
 ### 1. What is Controller?
 
-ontroller is a class that is used to group-up a set of action methods.
+Controller is a class that is used to group-up a set of action methods.
 
 Action methods do perform certain operation when a request is received & returns the IActionResult that can be sent as response to browser.
 

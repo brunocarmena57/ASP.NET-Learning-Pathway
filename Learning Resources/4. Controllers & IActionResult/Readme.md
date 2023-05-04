@@ -16,7 +16,7 @@ Controller is a class that is used to group-up a set of action methods.
 
 Action methods do perform certain operation when a request is received & returns the IActionResult that can be sent as response to browser.
 
-It performs the following tasks:
+<strong>It performs the following tasks:</strong>
 
 Reading requests such as receiving query string parameters, request body, request cookies, request headers etc.
 
@@ -29,7 +29,7 @@ Creating objects of ViewModel or DTO
 Sending DTO objects to view (in case of view result)
 
 
-The controller class should be either or both:
+<strong>The controller class should be either or both:</strong>
 
 The class name should be suffixed with “Controller”. Eg: HomeController
 
@@ -45,71 +45,71 @@ An action method is a public method in a controller class that responds to a spe
 
 Controller is a class that is used to group-up a set of action methods.
 
-IActionResult
+<strong>IActionResult</strong>
 
 Defines a contract that represents the result of an action method.
 
-ActionResult
+<strong>ActionResult</strong>
 
 A default implementation of IActionResult.
 
-ContentResult
+<strong>ContentResult</strong>
 
 Represents a text result.
 
-EmptyResult
+<strong>EmptyResult</strong>
 
 Represents an ActionResult that when executed will do nothing.
 
-JsonResult
+<strong>JsonResult</strong>
 
 An action result which formats the given object as JSON.
 
-PartialViewResult
+<strong>PartialViewResult</strong>
 
 Represents an ActionResult that renders a partial view to the response.
 
-ViewResult
+<strong>ViewResult</strong>
 
 Represents an ActionResult that renders a view to the response.
 
-ViewComponentResult
+<strong>ViewComponentResult</strong>
 
 An IActionResult which renders a view component to the response.
 
-StatusCodeResult
+<strong>StatusCodeResult</strong>
 
 An IActionResult which sends a specific HTTP status code in response, without any response body.
 
-UnauthorizedResult
+<strong>UnauthorizedResult</strong>
 
 An IActionResult which sends HTTP 401 status code in response, with / without any response body.
 
-BadRequestResult
+<strong>BadRequestResult</strong>
 
 An IActionResult which sends HTTP 400 status code in response, with / without any response body.
 
-NotFoundResult
+<strong>NotFoundResult</strong>
 
 An IActionResult which sends HTTP 404 status code in response, with / without any response body.
 
-ObjectResult
+<strong>ObjectResult</strong>
 
 An IActionResult which sends the data of the specified object in response body.
 
-FileResult
+<strong>FileResult</strong>
 
 An IActionResult which sends content of the specified file in response body.
 
-RedirectToActionResult
+<strong>RedirectToActionResult</strong>
 
 An IActionResult which sends HTTP 301 or 302 status code in response to redirect the request to the specific action method.
 
-LocalRedirectResult
+<strong>LocalRedirectResult</strong>
 
 An IActionResult which sends HTTP 301 or 302 status code in response to redirect the request to the specified local URL (within the same domain).
 
-RedirectResult
+<strong>RedirectResult</strong>
 
 An IActionResult which sends HTTP 301 or 302 status code in response to redirect the request to the specified local URL (within the same domain) or an external URL.
 

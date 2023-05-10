@@ -5,4 +5,5 @@ As I continue to learn and explore ASP.NET and related technologies, I will be a
 
 My goal with this folder is to create a centralized location for all of the resources that have been helpful to me in my own learning journey, so that others can benefit from them as well. I hope you find these resources to be informative, engaging, and valuable in your own learning experience.
 
+
 Thank you for visiting the Learning Resources folder, and happy learning!
